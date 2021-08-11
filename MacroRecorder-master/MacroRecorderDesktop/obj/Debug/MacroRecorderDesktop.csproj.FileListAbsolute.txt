@@ -1,0 +1,12 @@
+D:\Projects\MacroRecorder-master\MacroRecorder\obj\Debug\MacroRecorderDesktop.Properties.Resources.resources
+D:\Projects\MacroRecorder-master\MacroRecorder\obj\Debug\MacroRecorderDesktop.csproj.GenerateResource.cache
+D:\Projects\MacroRecorder-master\MacroRecorder\obj\Debug\MacroRecorderDesktop.csproj.CoreCompileInputs.cache
+D:\Projects\MacroRecorder-master\MacroRecorder\obj\Debug\MacroRecorderDesktop.exe
+D:\Projects\MacroRecorder-master\MacroRecorder\obj\Debug\MacroRecorderDesktop.pdb
+D:\Projects\MacroRecorder-master\MacroRecorder\bin\Debug\MacroRecorderDesktop.exe.config
+D:\Projects\MacroRecorder-master\MacroRecorder\bin\Debug\MacroRecorderDesktop.exe
+D:\Projects\MacroRecorder-master\MacroRecorder\bin\Debug\MacroRecorderDesktop.pdb
+D:\Projects\MacroRecorder-master\MacroRecorder\obj\Debug\MacroRecorder.Forms.formMacroNotify.resources
+D:\Projects\MacroRecorder-master\MacroRecorder\obj\Debug\MacroRecorder.Forms.formMacroPlaying.resources
+D:\Projects\MacroRecorder-master\MacroRecorder\obj\Debug\MacroRecorder.Forms.formNewMacro.resources
+D:\Projects\MacroRecorder-master\MacroRecorder\obj\Debug\MacroRecorder.Forms.MainWindow.resources
